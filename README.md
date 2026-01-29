@@ -38,8 +38,8 @@ Company/
 ### 1. Clone and Install Dependencies
 
 ```bash
-git clone https://github.com/mahakrastogi0602/Django-Company-Assignment.git
-cd Django-Company-Assignment
+git clone https://github.com/mahakrastogi0602/company-payroll-backend.git
+cd company-payroll-backend
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
